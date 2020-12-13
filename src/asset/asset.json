@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "fname": "Manoj",
+        "lname": "Prabakar",
+        "dob": "28/04/1989",
+        "college": "AIHT",
+        "address": "Chennai",
+        "pincode": 600042
+    },
+    {
+        "id": "2",
+        "fname": "Karthick",
+        "lname": "Narahari",
+        "dob": "06/07/1990",
+        "college": "AIHT",
+        "address": "Chennai",
+        "pincode": 600006
+    },
+    {
+        "id": "3",
+        "fname": "Santhosh",
+        "lname": "Kumar",
+        "dob": "20/03/1990",
+        "college": "AIHT",
+        "address": "Villupuram",
+        "pincode": 605103
+    },
+    {
+        "id": "4",
+        "fname": "Vinesh",
+        "lname": "KC",
+        "dob": "07/12/1990",
+        "college": "AIHT",
+        "address": "Chennai",
+        "pincode": 600020
+    },
+    {
+        "id": "5",
+        "fname": "Pravin",
+        "lname": "Kumar",
+        "dob": "12/06/1989",
+        "college": "AIHT",
+        "address": "Chennai",
+        "pincode": 600042
+    }
+]
